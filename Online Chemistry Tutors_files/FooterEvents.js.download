@@ -1,0 +1,1 @@
+function buildEventContent(value){return"string"!=typeof value?"footer_clicked":`${value.split(" ").join("_").toLowerCase()}_clicked`}function handleClickEvent(value){return void 0!==window.gtag&&gtag("event","footer_click",{content:buildEventContent(value)}),!0}

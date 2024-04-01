@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="31" viewBox="0 0 37 31">
+    <defs>
+        <clipPath id="iha628tisa">
+            <path data-name="Rectangle 481" transform="translate(.954 -.226)" style="fill:none" d="M0 0h37v31H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 87783">
+        <g data-name="Pay per each session" transform="translate(-.954 .226)" style="clip-path:url(#iha628tisa)">
+            <rect data-name="Rectangle 7255" width="18" height="18" rx="3" transform="translate(.954 3.774)" style="fill:#17b193;opacity:.5"/>
+            <rect data-name="Rectangle 7254" width="27" height="28" rx="4" transform="translate(10.954 1.774)" style="fill:#603ade;opacity:.7"/>
+        </g>
+        <path data-name="Path 72125" d="m-.061-2.954 2.34 2.043L5.743-4.2" transform="translate(21.409 18.533)" style="stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px;fill:none"/>
+    </g>
+</svg>
